@@ -29,7 +29,7 @@ jobs:
         uses: docker/metadata-action@v5
         with:
           images: |
-            tbphp/gpt-load
+            aaee86/gpt-load
           flavor: |
             latest=false
           tags: |
